@@ -669,7 +669,7 @@
   height: 17.5vw;
   left: 0;
   top: 0;
-  animation: block1 6s infinite ;
+  animation: block1 6s linear infinite ;
 }
 
 .block2{
@@ -678,7 +678,7 @@
   height: 17.5vw;
   right: 0;
   top: 0;
-  animation: block2 6s infinite ;
+  animation: block2 6s linear infinite ;
 }
 
 .block3{
@@ -687,7 +687,7 @@
   height: 17.5vw;
   left: 0;
   top: 17.5vw;
-  animation: block3 6s infinite ;
+  animation: block3 6s linear infinite ;
 }
 
 .block4{
@@ -696,7 +696,7 @@
   height: 17.5vw;
   right: 0;
   top: 17.5vw;
-  animation: block4 6s infinite ;
+  animation: block4 6s linear infinite ;
 }
 
 .block5{
@@ -705,7 +705,7 @@
   height: 17.5vw;
   left: 0;
   bottom: 0;
-  animation: block5 6s infinite ;
+  animation: block5 6s linear infinite ;
 }
 
 .block6{
@@ -714,7 +714,7 @@
   height: 17.5vw;
   right: 0;
   bottom: 0;
-  animation: block6 6s infinite ;
+  animation: block6 6s linear infinite ;
 }
 
 @keyframes block1 {
