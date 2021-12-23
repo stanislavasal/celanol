@@ -445,7 +445,7 @@
   left: 3.2vw;
   top:10.6vw;
   animation: but 7s infinite;
-  /* animation-delay: 6s; */
+
 }
 
 @keyframes but {
