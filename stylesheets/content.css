@@ -93,15 +93,18 @@
   top: 8.78vw;
   left: 2.74vw;
   width: 30.76vw;
+  transition: 1.5s ease-in-out;
 }
 
 .f1:hover{
-  animation: flower 3s infinite;
+  transform: rotate(-360deg)
 }
 
-@keyframes flower {
-  100% {transform: rotate(-360deg);}
-}
+
+
+
+
+
 
 .box3{
   position: relative;
